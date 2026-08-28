@@ -84,7 +84,7 @@ export const vocab2B: VocabItem[] = [
   {
     word: "poetry",
     pronunciation: "/ˈpəʊətri/ — ပိုအက်ထရီ",
-    meaningMy: "ကဗျာ — အဆန်းတကြယ် (in verse) ရေးသားသော စာပေ",
+    meaningMy: "ကဗျာ — အဆန်းတကြယ် စည်းချက်ဖြင့် ရေးသားသော စာပေ",
     exampleEn: "Poetry is sometimes defined as \"literature in verse.\"",
   },
   {
@@ -206,7 +206,7 @@ export const partC2C_translations: Record<number, string> = {
 
 export const grammar2C = {
   whatMy:
-    "Adjectival Phrase (နာမဝိသေသန စကားစု) ဆိုသည်မှာ နာမ်တစ်ခု၏ နောက်တွင် တွဲလျက်ထားပြီး ထိုနာမ်ကို အထူးပြု ဖော်ပြပေးသော စကားစု ဖြစ်ပါသည်။ ဝိဘတ်စကားစု (in the green shirt) သို့မဟုတ် ကြိယာမှ ဆင်းသက်သော စကားစု (written by Shakespeare, talking under that tree) ပုံစံဖြင့် ဖြစ်တတ်ပါသည်။",
+    "နာမဝိသေသန စကားစု ဆိုသည်မှာ နာမ်တစ်ခု၏ နောက်တွင် တွဲလျက်ထားပြီး ထိုနာမ်ကို အထူးပြု ဖော်ပြပေးသော စကားစု ဖြစ်ပါသည်။ ဝိဘတ်စကားစု (in the green shirt) သို့မဟုတ် ကြိယာမှ ဆင်းသက်သော စကားစု (written by Shakespeare, talking under that tree) ပုံစံဖြင့် ဖြစ်တတ်ပါသည်။",
   whenMy:
     "မည်သည့် လူ၊ နေရာ၊ အရာဝတ္ထုကို ဆိုလိုကြောင်း တိတိကျကျ ဖော်ပြလိုသည့်အခါ ထိုနာမ်၏ နောက်တွင် နာမဝိသေသန စကားစုကို ချက်ချင်း ဆက်၍ ရေးပါသည်။",
   whyMy:
@@ -220,11 +220,11 @@ export const grammar2C = {
 
 export const tense2C = {
   whatMy:
-    "Present Simple (ပစ္စုပ္ပန် ရိုးရိုး) ကို အမြဲဖြစ်လေ့ရှိသော အမှုကိစ္စ၊ အလေ့အထ နှင့် အမှန်တရားများအတွက် သုံးပါသည်။ Present Continuous (ပစ္စုပ္ပန် ဆက်လက်ဖြစ်ပျက်ဆဲ) ကို ယခုအချိန်တွင် ဖြစ်ပျက်နေဆဲ အမှုကိစ္စများအတွက် သုံးပါသည်။",
+    "ပစ္စုပ္ပန် ရိုးရိုး ကာလကို အမြဲဖြစ်လေ့ရှိသော အမှုကိစ္စ၊ အလေ့အထ နှင့် အမှန်တရားများအတွက် သုံးပါသည်။ ပစ္စုပ္ပန် ဆက်လက်ဖြစ်ပျက်ဆဲ ကာလကို ယခုအချိန်တွင် ဖြစ်ပျက်နေဆဲ အမှုကိစ္စများအတွက် သုံးပါသည်။",
   whenMy:
     "always, usually, never, at weekends စသည့် စကားလုံးများနှင့် ရိုးရိုးကာလကို သုံးပါသည်။ now, at the moment, Look! စသည်တို့နှင့် ဆက်လက်ဖြစ်ပျက်ဆဲ ကာလကို သုံးပါသည်။",
   whyMy:
-    "like, belong, believe, know ကဲ့သို့ ခံစားမှု/အခြေအနေပြ ကြိယာ (state verbs) များကို ဆက်လက်ဖြစ်ပျက်ဆဲ ပုံစံဖြင့် မသုံးပါ — ထို့ကြောင့် \"I am not liking…\" မှား၍ \"I do not like…\" မှန်ပါသည်။",
+    "ချစ်ခြင်း၊ ပိုင်ဆိုင်ခြင်း၊ ယုံကြည်ခြင်း၊ သိခြင်း ကဲ့သို့ ခံစားမှု/အခြေအနေပြ ကြိယာများကို ဆက်လက်ဖြစ်ပျက်ဆဲ ပုံစံဖြင့် မသုံးပါ — ထို့ကြောင့် \"I am not liking…\" မှား၍ \"I do not like…\" မှန်ပါသည်။",
   examples: [
     { en: "The teacher always switches off his mobile phone while he is teaching.", phrase: "always switches off" },
     { en: "Look! The girl is dancing beautifully.", phrase: "is dancing" },
